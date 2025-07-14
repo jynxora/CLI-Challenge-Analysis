@@ -20,9 +20,9 @@ Each folder (Challenge #1, #2, #3...) includes:
 
 ## 📂 Challenges Index
 
-| Challenge | Focus Area | PDF Report | .MD Report | Download Directly[PDF] |
+| Challenge | Focus Area | PDF Report | .MD Report | ⬇️ Download Directly[PDF] |
 |----------:|------------|------------|-------------------|-------------------|
-| [Challenge 1](./Challenge1) | Forensic File & Process Analysis | [Challenge1.pdf](./Challenge1/Challenge1.pdf) | [Challenge1.md](./Challenge1/Challenge1.md) | |
+| [Challenge 1](./Challenge1) | Forensic File & Process Analysis | [Challenge1.pdf](./Challenge1/Challenge1.pdf) | [Challenge1.md](./Challenge1/Challenge1.md) | [⬇️ Download](https://github.com/jynxora/CLI-Challenge-Analysis/raw/main/Challenge1/Challenge1.pdf) |
 | Challenge #2 | Coming Soon 🔜 | ... | ... | ... |
 
 ---
