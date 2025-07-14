@@ -23,7 +23,7 @@ Each folder (Challenge #1, #2, #3...) includes:
 | Challenge | Focus Area | PDF Report | .MD Report | Download Directly[PDF] |
 |----------:|------------|------------|-------------------|-------------------|
 | [Challenge 1](./Challenge1) | Forensic File & Process Analysis | [Challenge1.pdf](./Challenge1/Challenge1.pdf) | [Challenge1.md](./Challenge1/Challenge1.md) | |
-| Challenge #2 | Coming Soon... | 🔜 | 🔜 | 🔜 |
+| Challenge #2 | Coming Soon 🔜 | ... | ... | ... |
 
 ---
 
@@ -37,3 +37,14 @@ Each folder (Challenge #1, #2, #3...) includes:
 Whether you're learning the terminal or mastering the art of **digital reasoning**, these challenges train you to **think like an analyst** using only the shell.
 
 ---
+I'm publishing every day — notes, CTFs, forensic reports, documenation — as proof of effort and evolution.
+
+Follow my journey:  
+🔗 [LinkedIn](https://www.linkedin.com/in/jinay-shah-03472a372/) | [X / Twitter](https://x.com/JynxZero) | [Medium](https://medium.com/@jynxora)
+
+---
+
+## 📜 License
+These notes are public. 
+Fork, adapt, improve — credit appreciated.  
+Let’s build in public. Let’s win in silence.
