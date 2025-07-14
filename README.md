@@ -22,7 +22,7 @@ Each folder (Challenge #1, #2, #3...) includes:
 
 | Challenge | Focus Area | PDF Report | .MD Report |
 |----------:|------------|------------|-------------------|
-| [Challenge #1](./Challenge-CLI-Day14) | Forensic File & Process Analysis | [Challenge1.pdf](./Challenge1.pdf) | [Challenge1.pdf](./Challenge1.md) |
+| [Challenge #1](./Challenge1) | Forensic File & Process Analysis | [Challenge1.pdf](./Challenge1/Challenge1.pdf) | [Challenge1.pdf](./Challenge1/Challenge1.md) |
 | Challenge #2 | Coming Soon... | – | – |
 
 ---
