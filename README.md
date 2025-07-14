@@ -45,6 +45,10 @@ Follow my journey:
 ---
 
 ## 📜 License
-These notes are public. 
-Fork, adapt, improve — credit appreciated.  
+These notes are public.
+
+Fork, adapt, improve — credit appreciated.
+
 Let’s build in public. Let’s win in silence.
+
+---
